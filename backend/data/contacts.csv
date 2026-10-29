@@ -1,0 +1,16 @@
+id,customer_id,name,email,role
+contact_001,cust_001,Sarah Mitchell,sarah@northstardental.example,Owner
+contact_002,cust_001,Daniel Kim,daniel@northstardental.example,Office Manager
+contact_003,cust_002,Emily Carter,emily@greenfieldpediatrics.example,Practice Manager
+contact_004,cust_003,Jason Lee,jason@riverbendortho.example,Owner
+contact_005,cust_004,Megan Brooks,megan@oakpinedental.example,Office Manager
+contact_006,cust_005,Rachel Adams,rachel@brightsmile.example,Owner
+contact_007,cust_006,Olivia Turner,olivia@sunrisepediatric.example,Practice Administrator
+contact_008,cust_007,Michael Grant,michael@lakesidedental.example,Owner
+contact_009,cust_008,Natalie Young,natalie@maplegroveortho.example,Office Manager
+contact_010,cust_009,Chris Evans,chris@parkviewdental.example,Dentist
+contact_011,cust_010,Amanda Foster,amanda@willowcreekdental.example,Practice Manager
+contact_012,cust_011,Brian Chen,brian@evergreendental.example,Owner
+contact_013,cust_011,Laura Stone,laura@evergreendental.example,Operations Manager
+contact_014,cust_012,Kevin Patel,kevin@centralavenuedentistry.example,Owner
+contact_015,cust_012,Julia Morris,julia@centralavenuedentistry.example,Front Desk Manager
